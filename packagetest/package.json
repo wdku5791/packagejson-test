@@ -1,0 +1,14 @@
+{
+  "name": "dshelt",
+  "version": "1.0.0",
+  "description": "a working package.json for dshelt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"error: no test specified\\\" && exit 1\""
+  },
+  "author": "beth johnson",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
